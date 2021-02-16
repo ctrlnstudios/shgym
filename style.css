@@ -848,7 +848,7 @@ input[type=email]{
 
 .fac1{
     height: 100vh;
-    background-image: url("IMAGE/freeweights.jpg");
+    background-image: url("freeweights.jpg");
     background-attachment: fixed;
     background-size: cover;
     position: relative;
@@ -856,7 +856,7 @@ input[type=email]{
 
 .fac2{
     height: 100vh;
-    background-image: url("IMAGE/2_Keiser_Infinity_Trainer-min.jpg");
+    background-image: url("2_Keiser_Infinity_Trainer-min.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -865,7 +865,7 @@ input[type=email]{
 
 .fac3{
     height: 100vh;
-    background-image: url("IMAGE/6_Wattbikes-min.png");
+    background-image: url("6_Wattbikes-min.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -874,7 +874,7 @@ input[type=email]{
 
 .fac4{
     height: 100vh;
-    background-image: url("IMAGE/3_Squat_Racks-min.png");
+    background-image: url("3_Squat_Racks-min.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -883,7 +883,7 @@ input[type=email]{
 
 .fac5{
     height: 100vh;
-    background-image: url("IMAGE/4_Technogym_Machines-min.png");
+    background-image: url("4_Technogym_Machines-min.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -892,7 +892,7 @@ input[type=email]{
 
 .fac6{
     height: 100vh;
-    background-image: url("IMAGE/gymrunning.jpg");
+    background-image: url("gymrunning.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
